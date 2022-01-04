@@ -11,6 +11,10 @@ int main()
 			cin>>a[i][j];
 		}
 	}
+	printf("hii");
+	
+	
+	
 
 	cout<<"\nthe first matrix\n";
 	for(i=0;i<2;i++)
