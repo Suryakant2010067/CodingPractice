@@ -6,6 +6,9 @@ struct Node
  	int data;
  	struct Node *rchild;
 };
+/*hellow i am suryakant patel
+my father name yamuna singh
+and my mother name is manorama devi*/
 struct Node*root=NULL;
 void RInsert(int key)
 {
